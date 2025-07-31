@@ -1,0 +1,28 @@
+2025-07-31 15:59:37,344 - INFO - Starting JSON file processing
+2025-07-31 15:59:37,345 - INFO - Found 2 JSON files to process
+2025-07-31 15:59:37,345 - INFO - Processing document: test
+2025-07-31 15:59:37,347 - ERROR - Failed to send test to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 15:59:37,347 - INFO - Processing document: test123
+2025-07-31 15:59:37,347 - ERROR - Failed to send test123 to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 15:59:37,347 - INFO - Processing complete: 2 successful, 0 errors
+2025-07-31 15:59:37,347 - INFO - Processing completed successfully
+2025-07-31 16:03:57,848 - INFO - Starting JSON file processing
+2025-07-31 16:03:57,849 - INFO - Found 2 JSON files to process
+2025-07-31 16:03:57,849 - INFO - Processing document: test
+2025-07-31 16:03:57,851 - ERROR - Failed to send test to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 16:03:57,851 - INFO - Processing document: test123
+2025-07-31 16:03:57,852 - ERROR - Failed to send test123 to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 16:03:57,852 - INFO - Processing complete: 2 successful, 0 errors
+2025-07-31 16:03:57,852 - INFO - Processing completed successfully
+2025-07-31 16:13:23,891 - INFO - Starting JSON file processing
+2025-07-31 16:13:23,891 - INFO - Found 4 JSON files to process
+2025-07-31 16:13:23,892 - INFO - Processing document: test_doc_002
+2025-07-31 16:13:23,954 - ERROR - Failed to send test_doc_002 to API: HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /post (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff058844490>: Failed to resolve 'httpbin.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-31 16:13:23,955 - INFO - Processing document: test
+2025-07-31 16:13:23,955 - ERROR - Failed to send test to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 16:13:23,955 - INFO - Processing document: test_doc_002
+2025-07-31 16:13:23,957 - ERROR - Failed to send test_doc_002 to API: HTTPSConnectionPool(host='httpbin.org', port=443): Max retries exceeded with url: /post (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff0588747f0>: Failed to resolve 'httpbin.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-07-31 16:13:23,958 - INFO - Processing document: test123
+2025-07-31 16:13:23,958 - ERROR - Failed to send test123 to API: Invalid URL 'achieversprofile.com/api/save': No scheme supplied. Perhaps you meant https://achieversprofile.com/api/save?
+2025-07-31 16:13:23,958 - INFO - Processing complete: 4 successful, 0 errors
+2025-07-31 16:13:23,958 - INFO - Processing completed successfully
